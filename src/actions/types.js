@@ -1,0 +1,1 @@
+export const GET_PLAYER_DETAILS = 'GET_PLAYER_DETAILS';
